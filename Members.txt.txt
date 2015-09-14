@@ -10,6 +10,7 @@ Tan Sze Young
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -23,4 +24,12 @@ App checks and records runs to display later when user wants to see.
  
 Role in project: Team leader
 
+=======
+Tan Sze Young
+ 
+Brief introduction
+ 
+Role in project: Assignment uploader
+ 
+>>>>>>> Daniel
 Preferred branch of engineering: Electrical
